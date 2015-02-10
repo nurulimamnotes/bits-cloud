@@ -1,0 +1,1 @@
+/usr/local/ispconfig/server/plugins-available/nginx_plugin.inc.php

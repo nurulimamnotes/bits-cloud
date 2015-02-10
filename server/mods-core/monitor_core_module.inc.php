@@ -1,0 +1,1 @@
+/usr/local/ispconfig/server/mods-available/monitor_core_module.inc.php
